@@ -9,6 +9,7 @@
 <script src="../common/jquery/jquery-3.5.1.js"></script>
 </head>
 <body>
-kkkkk
+	마이홈에서 만들었음
+	<br />
 </body>
 </html>
